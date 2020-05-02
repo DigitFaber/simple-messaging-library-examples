@@ -1,12 +1,12 @@
 # Simple Messaging Library examples 
 
-#### Examples for [Simple Messaging Library](https://github.com/DigitFaber/simple-messaging-library).
+#### Examples of [Simple Messaging Library](https://github.com/DigitFaber/simple-messaging-library) use.
 
 Examples are available for:
-   * Plain Java projects  
-   * Spring Boot projects
+   * [Plain Java](https://github.com/DigitFaber/simple-messaging-library-examples/tree/master/simple-messaging-library-example) projects  
+   * [Spring Boot](https://github.com/DigitFaber/simple-messaging-library-examples/tree/master/simple-messaging-library-spring-example) projects
 
-## Examples
+## Quickstart
 ###### Plain Java
 To run and see how it works for plain Java example just run the `main()` method in the `ExampleApplication` class. And that's it!
 
